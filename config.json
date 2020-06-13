@@ -9,13 +9,13 @@
     "get_url": "https://github.com",
     "blog_name": "The Coding World",
     "tag_line": "One Stop for Programmers",
-    "gmail-user": "braintrainingfordogs2020@gmail.com",
-    "gmail-password": "Secured@123-.",
+    "gmail-user": "your@gmail.com",
+    "gmail-password": "yourgmailpass",
     "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
     "no_of_posts": 3,
     "login_image":"login.svg",
-    "admin_user":"harry",
-    "admin_password": "subscribenow",
+    "admin_user":"admin",
+    "admin_password": "pass",
     "upload_location": "F:\\Python\\PyCharmProjects\\website_with_flask\\static"
 
   }
